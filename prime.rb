@@ -1,1 +1,2 @@
-# Add  code here!
+def is_prime(number)
+  number ? number % 2 
